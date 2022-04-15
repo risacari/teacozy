@@ -49,7 +49,7 @@ html {
 
 .intro {
     margin-top: 70px;
-    background-image: url("file:///C:/Users/Ricardo/Dropbox/Codecademy%20Full-Stack%20Path/teacozy/resources/images/img-mission-background.jpg");
+    background-image: url("https://risacari.github.io/teacozy/resources/images/img-mission-background.jpg");
     min-height: 700px;
     max-width: 1200px;
     display: flex;
@@ -107,7 +107,7 @@ h3 {
 /* Locations */
 
 .locations {
-    background-image: url("file:///C:/Users/Ricardo/Dropbox/Codecademy%20Full-Stack%20Path/teacozy/resources/images/img-locations-background.jpg");
+    background-image: url("https://risacari.github.io/teacozy/resources/images/img-locations-background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: -40px;
